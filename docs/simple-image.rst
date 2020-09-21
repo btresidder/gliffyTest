@@ -8,9 +8,7 @@ Message in chapter 1
 
 .. image:: /images/test-svg.svg
 
-.. code-block:: cmake
 
-   include("abc.cmake")
 
 Chapter 2
 ---------
