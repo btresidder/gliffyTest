@@ -6,7 +6,7 @@ Chapter 1
 
 Message in chapter 1
 
-.. image:: /images/test-svg.svg
+
 
 .. code-block:: cmake
 
